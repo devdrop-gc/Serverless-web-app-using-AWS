@@ -1,4 +1,4 @@
-# Serverless Task Tracker Application
+# Serverless Task Tracker Application using AWS
 
 ## 📌 Project Overview
 
